@@ -7,8 +7,17 @@ The dataset we used is from the ETHOS Hate Speech Detection Dataset on Github: h
 
 ## Results
 1. RNN
+
+![image](https://github.com/user-attachments/assets/1c2e606c-0cbd-4b65-9763-2d8caf10c798)
+
 2. LSTM
+
+![image](https://github.com/user-attachments/assets/7ddb4edd-5863-4e8a-ba79-651465b4111b)
+
 3. BERT
+
+![image](https://github.com/user-attachments/assets/5642e7a5-aac9-431a-9f16-3bc6fc8a66c4)
+
 
 ## References
 [1]. Alatawi, H. S., Alhothali, A. M., & Moria, K. M. (2021). Detecting white supremacist hate speech using domain-specific word embedding with deep learning and BERT. IEEE Access, 9, 106363-106374. https://doi.org/10.1109/ACCESS.2021.3089515
